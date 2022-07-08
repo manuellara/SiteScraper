@@ -26,7 +26,6 @@ export default function Home() {
   return (
     <div className="container mx-auto pt-10 px-5 max-w-xl">
 
-
       <div className="flex justify-center">
         <p className="text-2xl">
           SpankBang downloader

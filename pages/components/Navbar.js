@@ -7,7 +7,7 @@ export default function Navbar() {
 
                 <img className='h-10 cursor-pointer' src='https://assets.sb-cd.com/static/desktop/Images/logo_v5@2x.png' />
 
-                <a target="_blank" href='https://www.buymeacoffee.com/manuellara'>
+                <a target="_blank" href='https://www.buymeacoffee.com/manuellara' rel="noopener noreferrer">
                     <img className='h-10' src='https://upcdn.io/FW25akz6LiLRaZC5uR1Sj1z' />
                 </a>
 
